@@ -1,0 +1,6 @@
+USE THE COD TO MARGE MULTIPLE TABLES 
+SELECT * from tabe school
+inner join subject
+on school.id = subject.id
+
+use this to creat above info
